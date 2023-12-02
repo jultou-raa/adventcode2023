@@ -1,7 +1,5 @@
 import pathlib
 import re
-from pprint import pprint
-
 
 def get_first_and_last_digit_sum(message: str):
     # 1. Make a regex that finds digits
